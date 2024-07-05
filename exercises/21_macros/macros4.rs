@@ -1,4 +1,10 @@
-// TODO: Fix the compiler error by adding one or two characters.
+// macros4.rs
+//
+// Execute `rustlings hint macros4` or use the `hint` watch subcommand for a
+// hint.
+
+// I AM NOT DONE
+
 #[rustfmt::skip]
 macro_rules! my_macro {
     () => {
